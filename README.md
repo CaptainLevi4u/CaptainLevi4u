@@ -80,16 +80,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/MohammedEmadAI">
-    <!-- GitHub General Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=MohammedEmadAI&show_icons=true&count_private=true&theme=radical" width="32.5%">
-    
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedEmadAI&layout=compact&theme=radical&hide=HTML" width="32.5%">
-    
-    <!-- Commits / WakaTime Style -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohammedEmadAI&theme=radical" width="32.5%">
-  </a>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedEmadAI&show_icons=true&count_private=true&theme=radical" width="60%"/>
+  
+  <!-- Top Languages Donut -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedEmadAI&layout=donut&theme=radical" width="60%"/>
+  
+  <!-- WakaTime / Commits per Language -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohammedEmadAI&theme=radical" width="60%"/>
 </div>
 
 ---
