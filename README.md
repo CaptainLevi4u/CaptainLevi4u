@@ -80,16 +80,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
+  <!-- GitHub General Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MohammedEmadAI&show_icons=true&count_private=true&theme=radical" width="60%"/>
   
   <!-- Top Languages Donut -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedEmadAI&layout=donut&theme=radical" width="60%"/>
-  
-  <!-- WakaTime / Commits per Language -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohammedEmadAI&theme=radical" width="60%"/>
 </div>
-
 ---
 
 ## ⚙️ Code Cycle
