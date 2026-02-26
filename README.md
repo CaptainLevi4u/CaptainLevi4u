@@ -77,15 +77,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <!-- GitHub General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedEmadAI&show_icons=true&count_private=true&theme=radical" width="60%"/>
-  
-  <!-- Top Languages Donut -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedEmadAI&layout=donut&theme=radical" width="60%"/>
+<a href="https://github.com/MohammedEmadAI">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+</a>
 </div>
+
 ---
 
 ## ⚙️ Code Cycle
