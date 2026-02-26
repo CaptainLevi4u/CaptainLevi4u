@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -30,30 +30,33 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B8BBE?style=flat)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-F15A24?style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-00C8FF?style=flat)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=flat)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
 ## 💻 About Me
 
-- 🐧 Linux enthusiast & open-source contributor  
-- 💡 AI Engineer exploring **Machine Learning, Deep Learning, Computer Vision & Generative AI**  
-- 🎯 Passionate about building **intelligent systems and AI tools**  
-- 🎬 Ask me about **AI projects, PC building, or movies**  
+- 🤖 **AI Engineer** | Specializing in **ML, Deep Learning, CV & Generative AI**  
+- 🚀 Building **intelligent systems, agentic AI pipelines, and real-world applications**  
+- 🔬 Passionate about **researching advanced AI techniques** and applying them in projects  
+- 🌐 Open-source contributor & advocate for **AI-driven innovation**  
+- 🎯 Continuously exploring **cutting-edge AI and automation technologies**  
 
 ---
 
 ## 📚 Currently Learning
 
-- 🔹 Advanced **Generative AI models**  
-- 🔹 **Diffusion Models** for image generation  
-- 🔹 Optimizing **CV pipelines** with PyTorch  
-- 🔹 Large-scale **ML & DP projects**  
+- 🔹 Advanced **Generative AI models & architectures**  
+- 🔹 **Agentic AI** techniques for autonomous decision-making  
+- 🔹 **Diffusion Models** for image and video generation  
+- 🔹 Optimizing **Computer Vision pipelines** with **PyTorch**  
+- 🔹 Large-scale **Machine Learning & Deep Learning projects**  
+- 🔹 Cutting-edge **AI techniques** for real-world applications  
 
 ---
 
