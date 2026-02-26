@@ -64,6 +64,19 @@
 
 ---
 
+## 📫 Contact Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/mohamedemadxu" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-MohammedEmad-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:mohamedemadxu@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+</a>
+</div>
+
+---
+
 <div align="center">
 <a href="https://github.com/MohammedEmadAI">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
