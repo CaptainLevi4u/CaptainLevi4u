@@ -39,22 +39,22 @@
 
 ## 💻 About Me
 
-- 🤖 **AI Engineer** | Specializing in **ML, Deep Learning, CV & Generative AI**  
-- 🚀 Building **intelligent systems, agentic AI pipelines, and real-world applications**  
-- 🔬 Passionate about **researching advanced AI techniques** and applying them in projects  
-- 🌐 Open-source contributor & advocate for **AI-driven innovation**  
-- 🎯 Continuously exploring **cutting-edge AI and automation technologies**  
+- 🤖 *AI Engineer* | Specializing in *ML, Deep Learning, CV & Generative AI*  
+- 🚀 Building *intelligent systems, agentic AI pipelines, and real-world applications*  
+- 🔬 Passionate about *researching advanced AI techniques* and applying them in projects  
+- 🌐 Open-source contributor & advocate for *AI-driven innovation*  
+- 🎯 Continuously exploring *cutting-edge AI and automation technologies*  
 
 ---
 
 ## 📚 Currently Learning
 
-- 🔹 Advanced **Generative AI models & architectures**  
-- 🔹 **Agentic AI** techniques for autonomous decision-making  
-- 🔹 **Diffusion Models** for image and video generation  
-- 🔹 Optimizing **Computer Vision pipelines** with **PyTorch**  
-- 🔹 Large-scale **Machine Learning & Deep Learning projects**  
-- 🔹 Cutting-edge **AI techniques** for real-world applications  
+- 🔹 Advanced *Generative AI models & architectures*  
+- 🔹 *Agentic AI* techniques for autonomous decision-making  
+- 🔹 *Diffusion Models* for image and video generation  
+- 🔹 Optimizing *Computer Vision pipelines* with *PyTorch*  
+- 🔹 Large-scale *Machine Learning & Deep Learning projects*  
+- 🔹 Cutting-edge *AI techniques* for real-world applications  
 
 ---
 
@@ -77,19 +77,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/MohammedEmadAI">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=MohammedEmadAI&show_icons=true&count_private=true&theme=radical" width="32.5%">
-    
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedEmadAI&layout=compact&theme=radical&hide=HTML" width="32.5%">
-    
-    <!-- Commits / WakaTime Style -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohammedEmadAI&theme=radical" width="32.5%">
-  </a>
+<a href="https://github.com/MohammedEmadAI">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+</a>
 </div>
 
 ---
